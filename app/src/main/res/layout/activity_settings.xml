@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Settings"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="PIN"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/currentPinInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Current PIN"
+            android:inputType="numberPassword"
+            android:maxLength="12" />
+
+        <EditText
+            android:id="@+id/newPinInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="New PIN"
+            android:inputType="numberPassword"
+            android:maxLength="12" />
+
+        <EditText
+            android:id="@+id/confirmPinInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Confirm new PIN"
+            android:inputType="numberPassword"
+            android:maxLength="12" />
+
+        <Button
+            android:id="@+id/savePinButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save PIN" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Date and time"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/dateFormatSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Spinner
+            android:id="@+id/updateIntervalSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Text color"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <include
+            android:id="@+id/textColorPicker"
+            layout="@layout/view_color_picker" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Background color"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <include
+            android:id="@+id/backgroundColorPicker"
+            layout="@layout/view_color_picker" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Font"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/fontStyleSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <SeekBar
+            android:id="@+id/fontSizeSeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="48" />
+
+        <TextView
+            android:id="@+id/fontSizeLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Counter font size: 72sp" />
+
+        <Button
+            android:id="@+id/doneButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Done" />
+    </LinearLayout>
+</ScrollView>
