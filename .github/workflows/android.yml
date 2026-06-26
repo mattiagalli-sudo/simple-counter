@@ -24,4 +24,3 @@ jobs:
       run: chmod +x gradlew
     - name: Build with Gradle
       run: ./gradlew build^
-  uses: Raul6469/android-gradle-action@2.0.0
