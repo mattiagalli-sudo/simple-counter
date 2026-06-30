@@ -6,6 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
   workflow_dispatch:
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -22,8 +23,9 @@ jobs:
         cache: gradle
 
     - name: Grant execute permission for gradlew
-  run: chmod +x ./gradlew
-  working-directory: ./simple-counter
-- name: Build with Gradle
-  run: ./gradlew build
-  working-directory: ./simple-counter
+      run: chmod +x ./gradlew
+      working-directory: ./simple-counter
+      
+    - name: Build with Gradle
+      run: ./gradlew build
+      working-directory: ./simple-counter
