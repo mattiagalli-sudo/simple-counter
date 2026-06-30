@@ -29,3 +29,9 @@ jobs:
     - name: Build with Gradle
       run: ./gradlew build
       working-directory: ./simple-counter
+
+    - name: Upload APK to artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: app-release
+        path: ./simple-counter/app/build/outputs/apk/
