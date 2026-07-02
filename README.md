@@ -1,5 +1,5 @@
 # simple-counter
-This is a simple counter with customization and passcode locking features, made specifically for EspeRiciclo at ITIS Paleocapa, but here available for general purpose and usage. Almost completely vibecoded.
+This is a simple counter with customization and passcode locking features, made specifically for EspeRiciclo at ITIS Paleocapa, but here available for general purpose and usage.
 
 ## Features
 - Simple counter with buttons and manual input options
@@ -30,3 +30,7 @@ Coming soon...
 - Add Italian localization.
 - Add a language selector in settings.
 - Integrate system voice for reading counters when touching the screen (to assist blind people and make it easier for them to access the data).
+- Add an ap icon (?)
+
+## AI usage
+Most of the code is written by AI due to lack of the competences. All the creative direction, as well as the docs, readme, and localization (excluding English) writing is done by the author of Simple Counter (me) and the project contributors (thank you!).
