@@ -30,7 +30,11 @@ Coming soon...
 - Add Italian localization.
 - Add a language selector in settings.
 - Integrate system voice for reading counters when touching the screen (to assist blind people and make it easier for them to access the data).
-- Add an ap icon (?)
+- Add an app icon
+- Allow to export and import counters and config (allows for easier data transfer).
+
+### Maybe, in the future...
+- Data syncing (not useful: could just work with Syncthing).
 
 ## AI usage
 Most of the code is written by AI due to lack of the competences. All the creative direction, as well as the docs, readme, and localization (excluding English) writing is done by the author of Simple Counter (me) and the project contributors (thank you!).
