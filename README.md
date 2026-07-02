@@ -12,7 +12,7 @@ This is a simple counter with customization and passcode locking features, made 
 Coming soon...
 
 ## Docs
-Coming soon...
+Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sudo/simple-counter/wiki/).
 
 ## Roadmap
 ### 1.1
