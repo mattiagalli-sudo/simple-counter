@@ -8,6 +8,15 @@ This is a simple counter with customization and passcode locking features, made 
 - Passcode protected with three finger tap gesture (default code is 1234)
 - Fully customizable with color and font options
 
+## Compatibility
+Here are devices on which i tested the app and it works:
+- Samsung Android 5 tablet
+Here are devices on which i tested the app and it doesn't work:
+- Xiaomi Android 15 phone
+
+## Build
+jk ;)
+
 ## Screenshots
 Coming soon...
 
