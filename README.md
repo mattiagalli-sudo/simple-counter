@@ -11,6 +11,7 @@ This is a simple counter with customization and passcode locking features, made 
 ## Compatibility
 Here are devices on which i tested the app and it works:
 - Samsung Android 5 tablet
+
 Here are devices on which i tested the app and it doesn't work:
 - Xiaomi Android 15 phone
 
