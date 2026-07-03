@@ -19,7 +19,14 @@ Here are devices on which i tested the app and it doesn't work:
 jk ;)
 
 ## Screenshots
-Coming soon...
+### 1.0
+<img width="1280" height="800" alt="Screenshot_2026-07-03-10-13-54" src="https://github.com/user-attachments/assets/29d94d5f-cbb3-4aea-84c0-664cd5616523" />
+<img width="1280" height="800" alt="Screenshot_2026-07-03-10-09-22" src="https://github.com/user-attachments/assets/47a2d8f6-d8fd-4158-bd04-51a9f5741904" />
+<img width="1280" height="800" alt="Screenshot_2026-07-03-10-09-12" src="https://github.com/user-attachments/assets/bc4a53c7-8dc1-4989-95e2-f3daf03fb826" />
+<img width="1280" height="800" alt="Screenshot_2026-07-03-10-08-59" src="https://github.com/user-attachments/assets/1a8fa572-a946-40e9-8a23-5cac98362732" />
+<img width="1280" height="800" alt="Screenshot_2026-07-03-10-08-41" src="https://github.com/user-attachments/assets/f1f83132-a248-4772-b22a-766bf985ce85" />
+<img width="1280" height="800" alt="Screenshot_2026-07-03-10-08-30" src="https://github.com/user-attachments/assets/83f33327-7f10-41d9-98fd-415721a92646" />
+
 
 ## Docs
 Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sudo/simple-counter/wiki/).
@@ -47,6 +54,7 @@ Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sud
 - Set image as background.
 - Avoid cursor to autofocus on text box when opening settings.
 - Add more types of graphs (such as histograms).
+- Set default code as 0000
 
 ### Maybe, in the future...
 - Data syncing (not useful: could just work with Syncthing).
