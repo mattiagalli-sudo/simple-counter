@@ -44,6 +44,9 @@ Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sud
 - Integrate system voice for reading counters when touching the screen (to assist blind people and make it easier for them to access the data).
 - Add an app icon
 - Allow to export and import counters and config (allows for easier data transfer).
+- Set image as background.
+- Avoid cursor to autofocus on text box when opening settings.
+- Add more types of graphs (such as histograms).
 
 ### Maybe, in the future...
 - Data syncing (not useful: could just work with Syncthing).
