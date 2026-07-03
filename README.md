@@ -18,14 +18,6 @@ Here are devices on which i tested the app and it doesn't work:
 ## Build
 jk ;)
 
-## Screenshots
-### 1.0
-<img width="640" height="400" alt="Locked state" src="https://github.com/user-attachments/assets/83f33327-7f10-41d9-98fd-415721a92646" />
-<img width="640" height="400" alt="Unlocked state" src="https://github.com/user-attachments/assets/1a8fa572-a946-40e9-8a23-5cac98362732" />
-<img width="640" height="400" alt="Settings (1)" src="https://github.com/user-attachments/assets/bc4a53c7-8dc1-4989-95e2-f3daf03fb826" />
-<img width="640" height="400" alt="Settings (2)" src="https://github.com/user-attachments/assets/47a2d8f6-d8fd-4158-bd04-51a9f5741904" />
-<img width="640" height="400" alt="Usage example" src="https://github.com/user-attachments/assets/29d94d5f-cbb3-4aea-84c0-664cd5616523" />
-
 ## Docs
 Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sudo/simple-counter/wiki/).
 
@@ -59,3 +51,11 @@ Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sud
 
 ## AI usage
 Most of the code is written by AI due to lack of the competences. All the creative direction, as well as the docs, readme, and localization (excluding English) writing is done by the author of Simple Counter (me) and the project contributors (thank you!).
+
+## Screenshots
+### 1.0
+<img width="640" height="400" alt="Locked state" src="https://github.com/user-attachments/assets/83f33327-7f10-41d9-98fd-415721a92646" />
+<img width="640" height="400" alt="Unlocked state" src="https://github.com/user-attachments/assets/1a8fa572-a946-40e9-8a23-5cac98362732" />
+<img width="640" height="400" alt="Settings (1)" src="https://github.com/user-attachments/assets/bc4a53c7-8dc1-4989-95e2-f3daf03fb826" />
+<img width="640" height="400" alt="Settings (2)" src="https://github.com/user-attachments/assets/47a2d8f6-d8fd-4158-bd04-51a9f5741904" />
+<img width="640" height="400" alt="Usage example" src="https://github.com/user-attachments/assets/29d94d5f-cbb3-4aea-84c0-664cd5616523" />
