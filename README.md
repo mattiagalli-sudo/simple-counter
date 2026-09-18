@@ -30,6 +30,8 @@ Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sud
 - Add a counter history (logs once every hour at XX:00 if an edit has been made) with charts showing progress.
 - Allow multiple multipliers per counter, to show more information.
 - Allow more kinds of operations for the additional number/multiplier.
+- Allow showing and hiding the clock with a toggle in the settings.
+- Allow importing and exporting of all data (settings, counter values, history...) in open file formats (such as .yaml).
 
 ### 1.2
 - Add multiple counters, appearing as a menu at the bottom left (they're visible in the locked state, but only editable in the unlocked state). Each counter has it's own multipliers.
