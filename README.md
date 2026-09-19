@@ -31,7 +31,7 @@ Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sud
 - Allow multiple multipliers per counter, to show more information.
 - Allow more kinds of operations for the additional number/multiplier.
 - Allow showing and hiding the clock with a toggle in the settings.
-- Allow importing and exporting of all data (settings, counter values, history...) in open file formats (such as .yaml).
+- - Set default code as 0000
 
 ### 1.2
 - Add multiple counters, appearing as a menu at the bottom left (they're visible in the locked state, but only editable in the unlocked state). Each counter has it's own multipliers.
@@ -46,7 +46,7 @@ Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sud
 - Set image as background.
 - Avoid cursor to autofocus on text box when opening settings.
 - Add more types of graphs (such as histograms).
-- Set default code as 0000
+- Allow importing and exporting of all data (settings, counter values, history...) in open file formats (such as .yaml).
 
 ### Maybe, in the future...
 - Data syncing (not useful: could just work with Syncthing).
