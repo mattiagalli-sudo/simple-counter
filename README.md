@@ -31,7 +31,7 @@ Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sud
 - Allow multiple multipliers per counter, to show more information.
 - Allow more kinds of operations for the additional number/multiplier.
 - Allow showing and hiding the clock with a toggle in the settings.
-- - Set default code as 0000
+- Set default code as 0000
 
 ### 1.2
 - Add multiple counters, appearing as a menu at the bottom left (they're visible in the locked state, but only editable in the unlocked state). Each counter has it's own multipliers.
