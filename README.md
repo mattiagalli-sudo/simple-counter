@@ -25,7 +25,7 @@ Here are devices on which i tested the app and it doesn't work:
 In this repository, the app is built using Gradle in GitHub Actions, so the files you need to install the app are in the Releases page. If you still want to build the app yourself, you must download the source code from the repository (for latest available code, which may be buggy depending on the development state) or the Releases page (for a specific release's source code), and run it through the compiler of your choice (Gradle is suggested). I suggest building the latest available stable release.
 
 ## Docs
-Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sudo/simple-counter/wiki. It's currently still empty, so please consider expanding it!
+Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sudo/simple-counter/wiki). It's currently still empty, so please consider expanding it!
 
 ## Roadmap
 ### 1.1
