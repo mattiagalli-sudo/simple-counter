@@ -2,11 +2,12 @@
 This is a simple counter with customization and passcode locking features, made specifically for EspeRiciclo at ITIS Paleocapa, but here available for general purpose and usage.
 
 ## Features
-- Simple counter with buttons and manual input options
-- Fully customizable multiplier
-- Shows date & time on top left
-- Passcode protected with three finger tap gesture (default code is 1234)
+- Simple counter with buttons for increasing and decreasing value and manual input options
+- Fully customizable multiplier <!-- Other operation types and multiple numbers to release with 1.1 -->
+- Shows date & time on top left <!-- Any position on 1.1 -->
+- Passcode protected with three finger tap gesture (default code is 1234) <!-- Becomes 0000 in 1.1 -->
 - Fully customizable with color and font options
+<!-- - History graph with value changes over time planned for 1.1 -->
 
 ## Getting Started
 1. Download the latest release from the [Release](https://github.com/mattiagalli-sudo/simple-counter/releases) page.
@@ -37,7 +38,7 @@ Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sud
 - Allow multiple multipliers per counter, to show more information.
 - Allow more kinds of operations for the additional number/multiplier.
 - Allow showing and hiding the clock with a toggle in the settings.
-- Set default code as 0000.
+- Set default code as 0000, as it's a more common default passcode.
 - Add full screen view.
 - Allow screen to stay on while the app is in foreground.
 
