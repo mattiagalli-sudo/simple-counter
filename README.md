@@ -10,7 +10,8 @@ This is a simple counter with customization and passcode locking features, made 
 
 ## Getting Started
 1. Download the latest release from the [Release](https://github.com/mattiagalli-sudo/simple-counter/releases) page.
-2. Install the `apk.` on the Android device.
+2. Install the `apk.` file on the Android device. If requested, allow installation from unknown sources.
+If you're unable to install the app because your device thinks it's "not safe" that means Google locked your Android phone. You have to use the advanced process to install it. More info: https://keepandroidopen.org/
 
 ## Compatibility
 Here are devices on which i tested the app and it works:
