@@ -22,7 +22,7 @@ Here are devices on which i tested the app and it doesn't work:
 - Xiaomi Android 15 phone
 
 ## Build
-jk ;)
+In this repository, the app is built using Gradle in GitHub Actions, so the files you need to install the app are in the Releases page. If you still want to build the app yourself, you must download the source code from the repository (for latest available code, which may be buggy depending on the development state) or the Releases page (for a specific release's source code), and run it through the compiler of your choice (Gradle is suggested). I suggest building the latest available stable release.
 
 ## Docs
 Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sudo/simple-counter/wiki/).
@@ -58,7 +58,8 @@ Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sud
 - Data syncing (not useful: could just work with Syncthing set up in the files directory. It could be nice to store all app data in a folder to make this easier).
 - Permit to resize UI elements separately.
 - Integrate system voice for reading counters when touching the screen, to assist blind people and make it easier for them to access the data. (Not easy to implement, requires the device having a TTS model, which is rare expecially on old phones and tablets. Should ship the app with a built-in or optionally downloadable TTS model for universal compatibility.
-- - Add more types of graphs (such as histograms).
+- Add more types of graphs (such as histograms).
+- Web UI and API to edit the counter from multiple devices.
 
 ## AI usage
 Most of the code is written by AI due to lack of the competences. All the creative direction, as well as the docs, readme, and localization (excluding English) writing is done by the author of Simple Counter (me) and the project contributors (thank you!).
