@@ -44,21 +44,21 @@ Documentation has been migrated in the [wiki](https://github.com/mattiagalli-sud
 
 ### 1.2
 - Add multiple counters, appearing as a menu at the bottom left (they're visible in the locked state, but only editable in the unlocked state). Each counter has it's own multipliers.
-- Permit to resize UI elements separately.
 - Create a directory for various language files in the source code (this simplifies localization in other languages).
 - Add Italian localization.
 - Add a language selector in settings.
 - Allow for editing the frequency with which the history gets updated.
-- Integrate system voice for reading counters when touching the screen (to assist blind people and make it easier for them to access the data).
-- Add an app icon
-- Allow to export and import counters and config (allows for easier data transfer).
-- Set image as background.
+- Add an app icon.
+- Allow to image as background.
 - Avoid cursor to autofocus on text box when opening settings.
-- Add more types of graphs (such as histograms).
 - Allow importing and exporting of all data (settings, counter values, history...) in open file formats (such as .yaml).
+- Allow for customizing the + and - buttons to increase and decrease input of a certain value.
 
 ### Maybe, in the future...
-- Data syncing (not useful: could just work with Syncthing).
+- Data syncing (not useful: could just work with Syncthing set up in the files directory. It could be nice to store all app data in a folder to make this easier).
+- Permit to resize UI elements separately.
+- Integrate system voice for reading counters when touching the screen, to assist blind people and make it easier for them to access the data. (Not easy to implement, requires the device having a TTS model, which is rare expecially on old phones and tablets. Should ship the app with a built-in or optionally downloadable TTS model for universal compatibility.
+- - Add more types of graphs (such as histograms).
 
 ## AI usage
 Most of the code is written by AI due to lack of the competences. All the creative direction, as well as the docs, readme, and localization (excluding English) writing is done by the author of Simple Counter (me) and the project contributors (thank you!).
